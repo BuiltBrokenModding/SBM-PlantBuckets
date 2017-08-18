@@ -1,5 +1,4 @@
 # SBM-PlantBuckets
-==========================
 Skin addon for VE-FluidHandling introducting buckets made with plant materials
 
 ## Bucket Materials

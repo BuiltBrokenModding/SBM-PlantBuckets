@@ -1,2 +1,4 @@
 item.plantbucket:PlantBucket.name=Plant Bucket
 item.plantbucket:PlantBucket.grass.name=Grass Bucket
+
+item.plantbucket:PlantBucket.eat.bucket.cow=The cow seems to have mistaken your bucket for food

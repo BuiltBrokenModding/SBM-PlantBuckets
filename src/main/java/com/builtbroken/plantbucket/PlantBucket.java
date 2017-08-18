@@ -35,7 +35,7 @@ public class PlantBucket
     public static void registerRecipes(RegistryEvent.Register<IRecipe> event)
     {
         //TODO add crafting recipes for milk bucket
-        ResourceLocation location = new ResourceLocation(DOMAIN, "woodenbucket");
+        ResourceLocation location = new ResourceLocation(DOMAIN, "plantbucket");
         event.getRegistry().register(new ShapedOreRecipe(location, BucketTypes.GRASS.getBucket(),
                 " s ",
                 "wcw",

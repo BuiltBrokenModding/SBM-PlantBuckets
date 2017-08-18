@@ -11,8 +11,10 @@ Skin addon for VE-FluidHandling introducting buckets made with plant materials
 * Pumpkin Bucket
 * Melon Bucket
 * Vine Bucket
+* Paper
 
 ## Features
 * Can disable any material
 * Can enable fluid leaking
 * Molten fluids set entities on fire when in bucket (can be disabled)
+* Cows will eat buckets with a 10% chance
